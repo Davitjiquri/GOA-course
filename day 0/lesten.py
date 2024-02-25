@@ -3,7 +3,7 @@ from turtle import *
 # we want to paint a house
 
 
-color("red")
+color("BLUE")
 
 #drawing a square
 forward(200)
