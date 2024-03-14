@@ -1,0 +1,1 @@
+print("qeti, irma, lasha, anastasia, daviti, giorgi")
