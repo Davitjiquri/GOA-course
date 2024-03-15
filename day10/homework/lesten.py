@@ -33,10 +33,3 @@ print(num_1 != num_2)
 
 print(num_1 == num_2)
 
-
-
-
-for i in range(0, 30):
- print ("goa is the best")
-
- for i in range(2, 50, 4):
