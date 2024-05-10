@@ -5,10 +5,3 @@ toko = 10
 mate = 13
 
 print(gio * nika / dato + toko + mate)
-
-
-
-
-
-
-
